@@ -1,0 +1,30 @@
+[
+	{ 
+		"nama" : "Adhitya",
+		"umur" : 22,
+		"nrp" : "153040049",
+		"lulus" : true,
+		"hobby" : [
+			"Coding",
+			"Gaming"
+		],
+		"pembimbing" : {
+			"pembimbing1": "Sandhika Galih",
+			"pembimbing2": "Wanda Gusdya"
+		}
+	},
+	{ 
+		"nama" : "Adhitya",
+		"umur" : 22,
+		"nrp" : "153040049",
+		"lulus" : true,
+		"hobby" : [
+			"Coding",
+			"Gaming"
+		],
+		"pembimbing" : {
+			"pembimbing1": "Sandhika Galih",
+			"pembimbing2": "Wanda Gusdya"
+		}
+	}
+]
